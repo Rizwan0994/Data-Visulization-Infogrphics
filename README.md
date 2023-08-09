@@ -2,11 +2,14 @@
 Requirments Python 3.10.1
 <br>
 install these following libraries:
+<br>
 pandas ,numpy, matplotlib, seaborn 
+<br>
 e.g: pip install numpy
 
 <h3> How to run the file: </h3>
 1- first clone repo.
+<br>
 2- open the terminal then run this command:  python filename.pys
 
 <h3>About Task:</h3>
