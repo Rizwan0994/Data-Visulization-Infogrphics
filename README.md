@@ -1,5 +1,5 @@
 # Data-Visulization-Infogrphics
-requirments Python 3.10.1
+Requirments Python 3.10.1
 install these following libraries:
 pandas ,numpy, matplotlib, seaborn 
 e.g: pip install numpy
